@@ -1,0 +1,11 @@
+.position {
+	position: absolute;
+	gap: 25px;
+	top: 15%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+img {
+	height: 90px;
+}
