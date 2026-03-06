@@ -17,6 +17,7 @@ dist-ssr/
 *.njsproj
 *.sln
 *.sw?
+.vs/
 
 # OS-specific
 .DS_Store
