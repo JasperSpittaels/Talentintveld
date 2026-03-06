@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\images",
+    "\\src\\pages",
+    "\\src\\pages\\tasks",
+    "\\src\\pages\\tasks\\morning"
   ],
-  "SelectedNode": "\\vite.config.js",
+  "SelectedNode": "\\src\\pages\\tasks\\morning.css",
   "PreviewInSolutionExplorer": false
 }
